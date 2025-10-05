@@ -1,0 +1,5 @@
+{
+  "name": "AI Football Injury Prediction Dashboard",
+  "description": "A data-driven dashboard that monitors player workload, fitness levels, and predicts the likelihood of injuries for players in the Top 5 European football leagues using AI.",
+  "requestFramePermissions": []
+}
